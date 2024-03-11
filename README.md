@@ -1,4 +1,4 @@
-### \### Hi there 👋 This is Haolan ！✨
+### Hi there 👋 This is Haolan ！✨
 
 Welcome to my Github page! I am Haolan and I am currently working on 3D graphics and vision! 
 
