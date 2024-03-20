@@ -6,9 +6,9 @@ I'm Haolan Xu. **Graphics is awesome!**
 
 :mag: Working on **differentiable & neural rendering**.
 
-:thought_balloon: Ask me anything at [Discussions](https://github.com/jamesdemon923/jamesdemon923/discussions)!
+:thought_balloon: Ask me anything at [Discussions](https://github.com/jamesdemon923/jamesdemon923/discussions).
 
-#### :star: I am currently looking for related research collaboration! :star:
+**:star: I am currently looking for related research collaboration!!!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
