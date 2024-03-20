@@ -3,6 +3,7 @@
 I'm Haolan Xu. **Graphics is awesome!**
 
 <picture>
+    <source media="(prefers-color-scheme: rose)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose">
     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose">
 </picture>
 
