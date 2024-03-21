@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Haolan Xu. **Graphics is awesome!**
+I'm Haolan Xu. **Graphics and Vision are awesome!**
 
 <picture>
     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose">
