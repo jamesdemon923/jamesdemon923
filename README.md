@@ -12,7 +12,7 @@ I'm Haolan Xu. **Graphics and Vision are awesome!**
 
 :thought_balloon: Ask me anything at [Discussions](https://github.com/jamesdemon923/jamesdemon923/discussions).
 
-### :star: I am currently looking for related research collaborations!!!:star: 
+### :star: I am currently looking for related research collaboration!!!:star: 
 
 <!---
 
