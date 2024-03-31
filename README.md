@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Haolan Xu. **I love 3D Graphics and Vision!**
+I'm Haolan Xu. I love 3D Graphics and Vision!
 
 <picture>
     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose">
