@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Haolan Xu. **Graphics and Vision are awesome!**
+I'm Haolan Xu. **I love 3D Graphics and Vision!**
 
 <picture>
     <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose">
@@ -13,12 +13,6 @@ I'm Haolan Xu. **Graphics and Vision are awesome!**
 :thought_balloon: Ask me anything at [Discussions](https://github.com/jamesdemon923/jamesdemon923/discussions).
 
 ### :star: I am currently looking for related research collaboration!!!:star: 
-
-<!---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdemon923&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 <!---
 
